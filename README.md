@@ -42,7 +42,7 @@ think about edge cases too. Press **Submit** when you're done.
 This repository is an example assignment in the layout
 [Uppcoder](https://portal.uppcoder.com/education?utm_source=github&utm_medium=repo&utm_campaign=example-assignment-java)
 uses for coding assignments. It is the Java version of
-[python-autograded-assignment](https://github.com/websson/python-autograded-assignment).
+[python-autograded-assignment](https://github.com/Uppcoder/python-autograded-assignment).
 
 | Path | What it holds | Who sees it |
 |---|---|---|
